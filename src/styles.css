@@ -1,0 +1,12 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.spacing {
+	margin: 20px;
+}
+
+.disabled-link {
+	pointer-events: none;
+}
